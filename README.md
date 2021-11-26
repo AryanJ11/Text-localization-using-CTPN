@@ -4,12 +4,14 @@ The following repository contains code used for detecting presence and location 
 ## Table of contents
 * [File Structure](#file-structure)
 * [Model and Dataset](#model-and-dataset)
+* [Results](#result)
 
 ## File Structure
 1. config: Includes details about the directories that are being used for accessing the dataset and checkpoints
-2. Dataset_preparation: Includes all the methods used for preprocessing the data including train/test splits of the same.
-3. models: Includes implementation of the entire model architecture.
-4. train: Code for training the model including hyperparameters settings
+2. utils: Contains utility functions used for preprocessing the dataset
+3. Dataset_preparation: Includes all the methods used for preprocessing the data including train/test splits of the same.
+4. models: Includes implementation of the entire model architecture.
+5. train: Code for training the model including hyperparameters settings
 6. pred: Used for performing predictions over the image for localizing text.
 
 ## Model and Dataset
