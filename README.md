@@ -4,7 +4,7 @@ The following repository contains code used for detecting presence and location 
 ## Table of contents
 * [File Structure](#file-structure)
 * [Model and Dataset](#model-and-dataset)
-* [Results](#result)
+* [Results](#results)
 
 ## File Structure
 1. config: Includes details about the directories that are being used for accessing the dataset and checkpoints
