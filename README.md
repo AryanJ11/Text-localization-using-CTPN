@@ -34,4 +34,4 @@ Some examples of text localization by the model are given below:
 
 <p> <img src="Results/result1.png", alt=""> </p>
 <p> <img src="Results/result2.png", alt=""> </p>
-<p> <img src="Results/result2.png", alt=""> </p>
+<p> <img src="Results/result3.png", alt=""> </p>
